@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/delme123/static/css/main.073c9b0a.css",
+    "main.js": "/delme123/static/js/main.7ce2f984.js",
+    "index.html": "/delme123/index.html",
+    "main.073c9b0a.css.map": "/delme123/static/css/main.073c9b0a.css.map",
+    "main.7ce2f984.js.map": "/delme123/static/js/main.7ce2f984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7ce2f984.js"
+  ]
+}
